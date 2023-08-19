@@ -4,7 +4,8 @@
   "description": "Youtube video download",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "start": "node index.js",
+    "another-script": "you get the idea"
   },
   "author": "Santosh",
   "homepage": "http://youtube.videobanalo.com/",
