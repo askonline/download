@@ -1,20 +1,20 @@
 {
-  "name": "yt-downloader-backend",
+  "name": "youtube-video-downloader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Youtube video download",
   "main": "index.js",
   "scripts": {
-    "dev": "index.js"
+    "dev": "nodemon index.js"
   },
-  "author": "Santosh Kumar",
-  "homepage": "https://videobanalo.com",
+  "author": "Santosh",
+  "homepage": "http://youtube.videobanalo.com/",
   "license": "MIT",
   "dependencies": {
     "content-disposition": "^0.5.4",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "googleapis": "^120.0.0",
-     "socket.io": "^4.7.1",
+    "socket.io": "^4.7.1",
     "vercel": "^31.4.0",
     "ytdl-core": "^4.11.5"
   },
