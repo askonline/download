@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "index.js"
   },
-  "author": "Benjamin Meier",
-  "homepage": "https://youtubdle.com",
+  "author": "Santosh Kumar",
+  "homepage": "https://videobanalo.com",
   "license": "MIT",
   "dependencies": {
     "content-disposition": "^0.5.4",
