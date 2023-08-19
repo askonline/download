@@ -1,6 +1,0 @@
-{
-  "env": {
-    "MONGODB_URL": "",
-    "YOUTUBE_KEY": ""
-  }
-}
